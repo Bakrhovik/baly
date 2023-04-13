@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "imperial-audio-382712",
+  "private_key_id": "9ffeecdf03f917d8f6e8f73105ec60ca54ddb953",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCj3J1qpSz232jI\neufWlYqTaDfMYSnW4YAKKvnqrfPLROHchVSyVohwvAgernGBj+fMHtxGM1rdo4uC\n659H3xHP38W3y6I6DOjtkOAz0hw4cqVtw3NawGTNjvwtjZajerxV3ZbstuBQk8wQ\n3sMaMGulc0OtqpiS+yNFm9VsN/EtFUhZYOKrqqi70NYfg1Ixw2Ib8Ue17oRYJkt7\n9VCXFxkIdPQhTJozJ2IPvxyfVmIBfwFvocHlc/Odhjs0xqMeUvmbJ1u0i4/ssPsi\nS3KEjElpSa/8VsyB0/PIEIENSjuc1foWcMIVz9RSQS/0a45ule+JuQ0ZFWYFX3Sh\n4LnHNnBDAgMBAAECggEAPNdFtZq1ysYh5EpKOZEVvmy0RxUOkWPyBBR37cx/2Env\nqM7ypzLc/yq5wxaXO3mAofgVZpVb2C6ItuggoHFxbiMSiQ85YV94vviLXoJVixn6\nVXp8IsaLxw0fkhRfybxhIGqhxquSNyjhXKQxgdBXr7tP9jQA6ZYIvyhAwqk0yb1k\nPCJWcZRv/lWxm/TW5qEnLy8KbJU56dzvBaUokkZawLVpSAW1VNw764DhkWm8QklV\nSMr7rY8FFRB3sEXKGqtFaiOF8ZXACDSaujC1TmlLWBE2Bixp9GFgYtaoPMTmWCej\nlB0bZgQDlYC+375htEgx0qpnc2x9bvB5vXKXfsIgQQKBgQDcPrW6/V6/wmqGcocQ\nL2b8iejo2Cq0vPivjEZ10PlkpBcJ4QOgGS2mktjbgC5ryTdGFH17n/0ID5Jgq+Vw\nzPjHaem4Ltd0bACpGsRnnOz578/GcjY0hQvFz7sLpuNygcACFwzX9bJqNmOdFbm1\n2Ai7vluB7HQjtRClPRooRrgCAwKBgQC+dqSgUJN8P1vdcAO2ji1vcLundMzuqAqC\nPpL9I8Ukm6km/z4JhhVPEQ5eQqTLw6TbvfJ7PHpb3W3QmyjDbVk/k0l5MoAVG1E4\npqJ1gJK8XObrUZigL18WdbS0deQ2+c9KK58mZAUt9TW3LnKfsQ8Y9/mfy9jwrknI\n4zZm0RGkwQKBgDMNGiTAzDCYyQZnD6WRx0ZsVR9709JXJzHRyxdOHDDW1DxG+wcm\nLu24hinC+X+kgXpuD3QTbpxqt5xO2/0cleHrS/CUcv6adkC8YqA9wLRigP/Xw3bD\nDCqK7ylRQtFs/+u8Gg8I9ZUnDEoCGizraYLTKfTgsT8Bnl0e36xMUCSvAoGBAJbb\nmFeWmsrt0FCbeYVuJdS/4RKo8+0QUoqJD5nLbEortRY7UyLt/hDLPKsydB8lDn4y\nfE5aP7xlraZuTyJDiU5O1gJWGpcdNP7/FWymcxMZLpoy3gX6n4FFp+TL////a82e\nsYcR7/xP3cUC2C1ea8vmFeUY6/LuyWiBd0SG0kfBAoGBALNQlEpQm3GdvYCJYXAr\nIRvZzs40USOmvC+6tQsI1NHs0NlodFZXgCeqVKdcGMHGfunOvqPeUqD0YFy7c6X5\nNBQiKJHwj0K1aJ1RhhCuUTlOaozrK6PYP913UMTmSAKKW1Wfn0vyhUh9W5KR4YOC\nQ4QYefsbmYoC0s7FFUub/EnJ\n-----END PRIVATE KEY-----\n",
+  "client_email": "partnerscheck@imperial-audio-382712.iam.gserviceaccount.com",
+  "client_id": "115329749521230675271",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/partnerscheck%40imperial-audio-382712.iam.gserviceaccount.com"
+}
